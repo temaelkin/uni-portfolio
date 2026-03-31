@@ -1,4 +1,4 @@
-baseURL = 'https://temaelkin-uni.github.io/'
+baseURL = 'https://temaelkin.github.io/uni-portfolio/'
 languageCode = 'en-us'
 title = 'Tema Elkin'
 theme = 'archie'
